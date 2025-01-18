@@ -1,3 +1,3 @@
-# poppy-june
+# Intro to AI PILOT
 Python fundamentals
 
